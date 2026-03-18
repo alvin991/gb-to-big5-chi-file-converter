@@ -1,0 +1,15 @@
+input/
+output/
+__pycache__/
+*.epub
+audit.txt
+conversion.log
+
+# Common Python/IDE leftovers
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+.idea/
+.vscode/
